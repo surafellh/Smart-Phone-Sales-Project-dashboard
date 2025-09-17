@@ -31,7 +31,7 @@ The dashboard answers key business questions such as:
 
 ## ⚡ Approach
 - Built a **star schema** model for clean relationships  
-- Created **parameters** for dynamic filtering (brand/region)  
+- Created **parameters** for dynamic filtering (KPI, brand, region)  
 - Applied **time intelligence** (month-on-month, seasonal analysis)  
 - Designed **interactive visuals** (KPIs, bar/line charts, maps) for clarity  
 - Enabled **drill-downs** for exploration from summary → detail  
@@ -81,7 +81,7 @@ The dashboard answers key business questions such as:
 - Storage size contribution to revenue  
 - Customer demographics tied to location  
 
-*(Insert your exported snapshots here, e.g. `overview.png`, `brand.png`, `region.png`)*  
+
 
 ---
 
