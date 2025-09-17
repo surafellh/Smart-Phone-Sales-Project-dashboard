@@ -2,7 +2,10 @@
 
 ## 📌 Project Overview
 This project transforms smartphone sales data into **actionable insights** using Power BI.  
-The dataset includes **366 transactions across 19 smartphone models from 5 brands**, enriched with product details, locations, and a full date hierarchy.  
+The dataset includes **366 transactions across 19 smartphone models from 5 brands**, enriched with product details, locations, and a full date hierarchy.
+
+![Executive Overview](./dashboards/Smart-Phone-Sales-1.jpg)
+
 
 The dashboard answers key business questions such as:  
 - Which brands and models are driving sales?  
@@ -38,7 +41,7 @@ The dashboard answers key business questions such as:
 ## 💡 Key Insights
 🎥 **Video Demo of Dashboard Interactivity**  
 
-![Dashboard Demo](demo.gif)  
+![Dashboard Demo](./dashboards/Sales-dashboard.mp4)  
 
 - 📈 A few brands dominate sales, but smaller brands are growing quickly  
 - ⏳ Clear seasonal dips highlight when to adjust inventory and marketing  
@@ -50,19 +53,28 @@ The dashboard answers key business questions such as:
 
 ## 📸 Dashboard Snapshots
 
-### 1️⃣ Overview Page  
+### 1️⃣ Overview Page 
+
+![Overview](./dashboards/Smart-Phone-Sales-1.jpg)
+
 - Executive summary of sales performance  
 - Total revenue, units sold, average price  
 - Revenue split by age group, gender, channel, payment type  
 - High-level view of **brand and country performance**  
 
 ### 2️⃣ Brand Performance Page  
+
+![Brand_performance](./dashboards/Smart-Phone-Sales-2.jpg)
+
 - Revenue by **brand and model**  
 - Month-on-month brand comparison  
 - Top-performing model details (RAM, CPU, price, etc.)  
 - Gartner-inspired “quadrant” chart to position brand performance  
 
 ### 3️⃣ Regional Performance Page  
+
+![Regional_performance](./dashboards/Smart-Phone-Sales-3.jpg)
+
 - Revenue by **country and city**  
 - Regional contribution to overall sales  
 - Average price comparison across brands  
